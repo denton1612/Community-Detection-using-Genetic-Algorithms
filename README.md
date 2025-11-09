@@ -1,0 +1,1 @@
+Community-Detection-using-Genetic-Algorithm app is used for community detection in undirected graphs using a classical Evolutive Algorithm
